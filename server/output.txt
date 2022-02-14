@@ -1,0 +1,12 @@
+Single-server queuing simulator
+Mean interarrival       1.000  minutes
+
+Number of customers     1000 
+
+ 
+
+Average delay in queue       0.587 minutes
+Average number in queue      0.603
+Server utilization           0.548
+
+Time simulation ended      974.613
